@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		CEEB7753274FE53000D7E4F4 /* FIRChatAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEEB7752274FE53000D7E4F4 /* FIRChatAppApp.swift */; };
-		CEEB7755274FE53000D7E4F4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEEB7754274FE53000D7E4F4 /* ContentView.swift */; };
+		CEEB7755274FE53000D7E4F4 /* LoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEEB7754274FE53000D7E4F4 /* LoginView.swift */; };
 		CEEB7757274FE53100D7E4F4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CEEB7756274FE53100D7E4F4 /* Assets.xcassets */; };
 		CEEB775A274FE53100D7E4F4 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CEEB7759274FE53100D7E4F4 /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
@@ -16,7 +16,7 @@
 /* Begin PBXFileReference section */
 		CEEB774F274FE53000D7E4F4 /* FIRChatApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FIRChatApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CEEB7752274FE53000D7E4F4 /* FIRChatAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FIRChatAppApp.swift; sourceTree = "<group>"; };
-		CEEB7754274FE53000D7E4F4 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		CEEB7754274FE53000D7E4F4 /* LoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginView.swift; sourceTree = "<group>"; };
 		CEEB7756274FE53100D7E4F4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CEEB7759274FE53100D7E4F4 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -52,7 +52,7 @@
 			isa = PBXGroup;
 			children = (
 				CEEB7752274FE53000D7E4F4 /* FIRChatAppApp.swift */,
-				CEEB7754274FE53000D7E4F4 /* ContentView.swift */,
+				CEEB7754274FE53000D7E4F4 /* LoginView.swift */,
 				CEEB7756274FE53100D7E4F4 /* Assets.xcassets */,
 				CEEB7758274FE53100D7E4F4 /* Preview Content */,
 			);
@@ -137,7 +137,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CEEB7755274FE53000D7E4F4 /* ContentView.swift in Sources */,
+				CEEB7755274FE53000D7E4F4 /* LoginView.swift in Sources */,
 				CEEB7753274FE53000D7E4F4 /* FIRChatAppApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
